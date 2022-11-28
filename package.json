@@ -1,0 +1,26 @@
+{
+  "name": "video_chat_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belarepo/my-meeting-app.git"
+  },
+  "author": "Mahdi Asgari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belarepo/my-meeting-app/issues"
+  },
+  "homepage": "https://github.com/belarepo/my-meeting-app#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "peer": "^0.6.1",
+    "socket.io": "^4.5.4",
+    "uuid": "^9.0.0"
+  }
+}
